@@ -1,5 +1,5 @@
 Auto Generated Documentation
 ============================
-.. automodule:: hw1
+.. automodule:: hw1_Zheng_Vanessa
 		:members:
 		:undoc-members:

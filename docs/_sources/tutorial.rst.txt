@@ -1,4 +1,4 @@
 My Code Tutorial
 ================
 
-Simply run $python code_name.py in the code directory.
+Simply run $python hw1_Zheng_Vanessa.py in the code directory.
